@@ -3,7 +3,7 @@
     "type": "library",
     "autoload": {
         "psr-4": {
-            "MyPackage\": "src/"
+            "BowerAsset\\Zxcvbn\\": "src/"
         }
     },
     "authors": [
@@ -12,5 +12,6 @@
             "email": "aakashdubey20010907@gmail.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {}
 }
