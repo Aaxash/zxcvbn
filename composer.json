@@ -1,5 +1,5 @@
 {
-    "name": "bower-asset%00/zxcvbn",
+    "name": "bower-Asset/zxcvbn",
     "type": "library",
     "autoload": {
         "psr-4": {
