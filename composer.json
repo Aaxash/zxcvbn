@@ -1,0 +1,16 @@
+{
+    "name": "bower-asset/zxcvbn",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "BowerAsset\\Zxcvbn\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Aaxash",
+            "email": "aakashdubey20010907@gmail.com"
+        }
+    ],
+    "require": {}
+}
